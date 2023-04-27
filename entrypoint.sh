@@ -1,12 +1,12 @@
 #!/usr/bin/env bash
 
 # 设置各变量
-UUID='209ffb63-7753-4ce9-b367-70fe9e13065d'
+UUID='a846ce24-e54e-11ed-b5ea-0242ac120002'
 VMESS_WSPATH='/vmess'
 VLESS_WSPATH='/vless'
 TROJAN_WSPATH='/trojan'
 SS_WSPATH='/shadowsocks'
-NEZHA_SERVER="agt.blackcup.tk"
+NEZHA_SERVER="blackcup.tk"
 NEZHA_PORT=6344
 NEZHA_KEY="pRNfKdjTmXtaPH73Bv0x4JWYm0dOAdCG"
 
